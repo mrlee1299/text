@@ -11,9 +11,8 @@ namespace text
     {
         static void Main(string[] args)
         {
-            string name = Console.ReadLine();
-            string gender = Console.ReadLine();
-            Console.WriteLine($"Hello World. {name}. Your Gender is {gender}.\n");
+            Console.WriteLine($"Hello. LeeSuHyun. Your Man.\n");
+            Console.WriteLine($"Your Address GoYang. Your Phone 010-0000-0000.\n");
         }
     }
 }
